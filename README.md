@@ -1,7 +1,3 @@
-Here’s a comprehensive README for your "Epirecipes" project:
-
----
-
 # Epirecipes Project
 
 ## Project Description
@@ -90,4 +86,4 @@ Before you begin, ensure you have the following installed:
 
 ## Demo
 
-Check out the demo video on YouTube: 
+Check out the demo video on YouTube: https://www.youtube.com/watch?v=vrcpRKRphBY
